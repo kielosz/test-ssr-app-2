@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-react-app"
+  description: "Lorem ipsum"
+  annotations:
+    github.com/project-slug: kielosz/test-ssr-app-2
+    backstage.io/techdocs-ref: url:https://github.com/kielosz/test-ssr-app-2
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "John Smith"

@@ -1,0 +1,8 @@
+site_name: "test-react-app"
+site_description: "Lorem ipsum"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
